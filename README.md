@@ -62,8 +62,8 @@ class Graph {
 
 <a name="implementation-of-using-adjacency-matrix"></a>
 ## Implementation of Graph Using Adjacency Matrix
-
-> Instead of Using a 2D Array List we can use a 2D Array only
+ 
+## > Instead of Using a 2D Array List we can use a 2D Array only
 
 <a name="breadth-first-search-using-adjacency-list"></a>
 ## Breadth First Search Using Adjacency List
